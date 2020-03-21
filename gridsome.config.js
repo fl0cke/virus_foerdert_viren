@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Virus fördert Viren',
   templates: {
-    Measure: '/maßnahmen/:number/:title',
+    Measure: '/massnahmen/:title',
   },
   plugins: [
     {

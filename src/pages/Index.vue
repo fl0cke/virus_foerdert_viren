@@ -1,5 +1,5 @@
 <template>
-  <Layout class="text-center max-w-2xl mx-auto">
+  <Layout class="text-center">
     <h1 class="font-bold text-3xl md:text-5xl text-center mt-8 leading-snug">
       Virus fördert Viren</h1>
     <h2 class="font-semibold text-xl md:text-2xl text-center">IT Sicherheit im

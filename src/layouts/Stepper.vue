@@ -1,6 +1,6 @@
 <template>
   <div>
-    <header class="flex items-end py-4 justify-between border-b-2">
+    <header class="flex items-end py-4 justify-between border-b-2 border-gray-200">
       <h2 class="font-bold md:text-2xl">
         <g-link to="/">Virus fördert Viren</g-link>
       </h2>

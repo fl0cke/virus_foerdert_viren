@@ -22,7 +22,6 @@ export default function (Vue, { appOptions }) {
 
   appOptions.store = new Vuex.Store({
     state: {
-      // TODO: use a Set ?
       completedMeasures: {},
     },
     getters: {
@@ -31,6 +30,9 @@ export default function (Vue, { appOptions }) {
     mutations: {
       completeMeasure (state, measure) {
         Vue.set(state.completedMeasures, measure.id, measure)
+      },
+      rejectMeasure (state, measure) {
+        Vue.delete(state.completedMeasures, measure.id)
       },
       reset(state) {
         state.completedMeasures = {}

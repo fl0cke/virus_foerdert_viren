@@ -14,11 +14,13 @@
       </div>
       <slot />
       <div class="mt-8 grid gap-2 md:grid-cols-2">
-        <Button class="bg-red-500" @click.native="nextMeasure">
+        <Button class="bg-red-500" :to="nextPath"
+                @click.native="rejectCurrentMeasure">
           <font-awesome-icon icon="times" class="mr-2" />
           Habe ich nicht gemacht
         </Button>
-        <Button class="bg-green-500" @click.native="completeCurrentMeasure">
+        <Button class="bg-green-500" :to="nextPath"
+                @click.native="completeCurrentMeasure">
           <font-awesome-icon icon="check" class="mr-2" />
           Habe ich gemacht
         </Button>
@@ -52,22 +54,22 @@ export default {
     progress() {
       return this.measure.number / this.totalMeasures
     },
+    nextPath() {
+      const nextNumber = this.measure.number + 1
+      const nextEdge = this.$static.allMeasure.edges.find(
+        (edge) => edge.node.number === nextNumber,
+      )
+      return nextEdge ?
+        nextEdge.node.path :
+        '/done/'
+    },
   },
   methods: {
-    nextMeasure() {
-      const nextNumber = this.measure.number + 1
-      const nextEdge = this.$static.allMeasure.edges.find((edge) => edge.node.number ===
-        nextNumber)
-      if (nextEdge) {
-        this.$router.push(nextEdge.node.path)
-      } else {
-        // TODO: deutsche path names?
-        this.$router.push('/done')
-      }
-    },
     completeCurrentMeasure() {
       this.$store.commit('completeMeasure', this.measure)
-      this.nextMeasure()
+    },
+    rejectCurrentMeasure() {
+      this.$store.commit('rejectMeasure', this.measure)
     },
   },
 }
@@ -75,15 +77,15 @@ export default {
 
 <static-query>
   query {
-  allMeasure {
-  totalCount,
-  edges {
-  node {
-  path,
-  number
-  }
-  }
-  }
+    allMeasure {
+      totalCount,
+      edges {
+        node {
+          path,
+          number
+        }
+      }
+    }
   }
 </static-query>
 

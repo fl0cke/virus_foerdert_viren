@@ -12,7 +12,7 @@ export default {
 
 <style scoped>
   .button {
-    @apply inline-flex justify-center rounded py-2 px-4 text-white text-lg font-semibold transition-all duration-100;
+    @apply inline-flex justify-center rounded py-2 px-4 text-white text-lg font-semibold transition-all duration-100 items-center;
     min-width: 12rem;
   }
   .button:hover {

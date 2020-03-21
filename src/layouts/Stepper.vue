@@ -12,14 +12,15 @@
       <slot />
       <div class="mt-6 flex justify-center">
         <Button class="ml-4 bg-red-500" @click.native="nextMeasure">
+          <font-awesome-icon icon="times" class="mr-2"/>
           Habe ich nicht gemacht
         </Button>
         <Button class="ml-4 bg-green-500" @click.native="completeCurrentMeasure">
-          Habe ich gemacht
+          <font-awesome-icon icon="check" class="mr-2"/>Habe ich gemacht
         </Button>
       </div>
       <div class="font-bold text-center mt-4">
-        {{completedMeasures}} von {{totalMeasures}} Erfüllt
+        {{completedMeasures}} von {{totalMeasures}} Maßnahmen erfüllt
       </div>
     </main>
   </div>

@@ -26,5 +26,8 @@ module.exports = {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
     }
-  }
+  },
+  chainWebpack(config) {
+    config.mode("development")
+  },
 }

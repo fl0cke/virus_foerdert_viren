@@ -19,7 +19,7 @@
           <font-awesome-icon icon="times" class="mr-2" />
           Habe ich nicht gemacht
         </Button>
-        <Button class="bg-green-500" :to="nextPath"
+        <Button class="bg-green-500" :to="nextPath" :key="nextPath"
                 @click.native="completeCurrentMeasure">
           <font-awesome-icon icon="check" class="mr-2" />
           Habe ich gemacht

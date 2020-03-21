@@ -15,19 +15,22 @@ module.exports = {
       options: {
         baseDir: 'content/measures',
         path: '*.md',
-        typeName: 'Measure'
-      }
+        typeName: 'Measure',
+      },
     }, {
-    use: 'gridsome-plugin-tailwindcss'
-    }
+      use: 'gridsome-plugin-tailwindcss',
+      options: {
+        purgeConfig: {
+          whitelist: ['svg-inline--fa'],
+          whitelistPatterns: [/shiki/, /fa-$/]
+        }
+      },
+    },
   ],
   transformers: {
     remark: {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
-    }
-  },
-  chainWebpack(config) {
-    config.mode("development")
+    },
   },
 }

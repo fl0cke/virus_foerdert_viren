@@ -23,8 +23,8 @@
           </g-link>
         </li>
       </ul>
-      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste Neustarten</Button> <br>
-      <Button class="bg-green-500 mt-8 print:hidden" @click="printScore">Ergebnis Drucken</Button>
+      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste neu starten</Button> <br>
+      <Button class="bg-green-500 mt-8 print:hidden" @click.native="printScore">Ergebnis drucken</Button>
       <div class="mt-4">
         <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
       </div>
@@ -33,7 +33,7 @@
       <h1
         class="leading-tight text-3xl font-semibold mt-6 pb-2">Hier fehlt doch was!</h1>
       <p class="text-lg mt-6">
-        Wie es scheint haben Sie die Checkliste noch nicht gestartet.
+        Wie es scheint, haben Sie die Checkliste noch nicht gestartet.
       </p>
       <Button to="/checkliste" class="bg-green-500 mt-6">Jetzt Starten</Button>
       <div class="mt-4">
@@ -85,8 +85,8 @@ export default {
     wasCompleted(measure) {
       return measure.id in this.$store.state.completedMeasures
     },
-    printScore: function() {
-      window.print(); 
+    printScore() {
+      window.print();
       console.log("Printing...");
     }
   },

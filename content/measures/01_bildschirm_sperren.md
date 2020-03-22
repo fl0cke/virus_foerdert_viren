@@ -21,7 +21,7 @@ Es gibt verschiedenen Möglichkeiten. Wählen Sie Eine, mit der Sie am besten zu
 Beispiel:
 
 * Nutzen Sie jedes Mal bevor Sie den Arbeitsplatz verlassen Abkürzungen für die Tastatur
-  * Windows: `Windows-Taste+L`
+  * Windows: `Windows-Taste + L`
   * Linux: `Strg + Alt + L`
   * Mac: `CMD + Alt + Q`
 * Klicken Sie jedes Mal bevor Sie den Arbeitsplatz verlassen auf *Energiesparen*

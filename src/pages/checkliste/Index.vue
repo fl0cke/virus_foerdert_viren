@@ -32,7 +32,7 @@ export default {
   name: 'Checkliste',
    metaInfo: {
     title: 'Checkliste'
-  }
+  },
   components: { Button, ProgressBar },
   data() {
     return {

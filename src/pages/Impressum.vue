@@ -12,8 +12,8 @@
 
       <h2>Kontakt</h2>
 
-      <p>Telefon: <a href="tel:+"></a><br>
-      E-Mail: <a href="mailto:">a@test.de</a></p>
+      <p>Telefon: <a class="link" href="tel:+"></a><br>
+      E-Mail: <a class="link" href="mailto:">a@test.de</a></p>
 
       <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 
@@ -42,7 +42,7 @@
 
       <p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
 
-      <p>Quelle: <a href="https://www.e-recht24.de">eRecht24</a></p>
+      <p>Quelle: <a class="link" href="https://www.e-recht24.de">eRecht24</a></p>
 
 
   </Layout>

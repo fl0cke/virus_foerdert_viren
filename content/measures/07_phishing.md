@@ -6,24 +6,7 @@ date: 2020-03-22
 
 ## Phishing-E-Mails erkennen 
 
-Können Sie Phishing-E-Mails erkennen?
-
-
-
 > Können Sie Phishing-E-Mails erkennen?
->
-
-
-
-<font-awesome :icon="['fas', 'question']"/> Können Sie Phishing-E-Mails erkennen?
-
-
-
-<font-awesome :icon="['fab', 'faCheck']"/>Können Sie Phishing-E-Mails erkennen?
-
-### Können Sie Phishing-E-Mails erkennen?
-
-
 
 ## Warum ist das wichtig? 
 Cyberkriminelle nutzen sehr erfolgreich aktuelle Situationen, wie wir sie derzeit gerade erleben und verschicken Corona-Phishing-E-Mails. Beispiele 

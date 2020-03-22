@@ -23,7 +23,7 @@ Beispiel:
 * Nutzen Sie jedes Mal bevor Sie den Arbeitsplatz verlassen Abkürzungen für die Tastatur
   * Windows: `Windows-Taste + L`
   * Linux: `Strg + Alt + L`
-  * Mac: `CMD + Alt + Q`
+  * Mac: `CMD + STRG + Q`
 * Klicken Sie jedes Mal bevor Sie den Arbeitsplatz verlassen auf *Energiesparen*
 * Stellen Sie Ihren Bildschirmschoner so ein, dass der Bildschirm nach wenigen Minuten der Inaktivität automatisch gesperrt wird.
   * Windows: <a href="http://techmixx.de/windows-10-automatische-bildschirmsperre-aktivieren-oder-deaktivieren/" target="_blank">Anleitung</a>

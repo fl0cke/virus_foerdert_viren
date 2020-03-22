@@ -49,6 +49,9 @@ import Button from '../../components/Button'
 
 export default {
   name: 'Zusammenfassung',
+   metaInfo: {
+    title: 'Zusammenfassung'
+  },
   components: {
     Button,
     AnimatedNumber,

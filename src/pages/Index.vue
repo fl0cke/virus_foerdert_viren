@@ -89,7 +89,7 @@ import Index from '../layouts/Index'
 
 export default {
   metaInfo: {
-    title: 'Hello, world!',
+    title: 'Virus fördert Viren',
   },
   components: {
     Layout: Index,

@@ -4,6 +4,9 @@
 
 <script>
 export default {
+   metaInfo: {
+    title: 'Impressum'
+  },
   name: 'Done',
 }
 </script>

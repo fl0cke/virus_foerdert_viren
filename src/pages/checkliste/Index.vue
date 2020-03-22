@@ -30,6 +30,9 @@ import Button from '../../components/Button'
 
 export default {
   name: 'Checkliste',
+   metaInfo: {
+    title: 'Checkliste'
+  }
   components: { Button, ProgressBar },
   data() {
     return {

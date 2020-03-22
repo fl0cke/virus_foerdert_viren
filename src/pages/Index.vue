@@ -88,7 +88,7 @@ import Index from '../layouts/Index'
 
 export default {
   metaInfo: {
-    title: 'IT-Sicherheit im Home-Office',
+    title: 'IT-Sicherheit im Home-Office'
   },
   components: {
     Layout: Index,

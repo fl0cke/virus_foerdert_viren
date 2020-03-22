@@ -1,4 +1,4 @@
-@modify date 2020-03-22 16:19:26
+<template>
   <div id="app" class="max-w-3xl mx-auto px-4 font-body">
     <router-view />
     <TheFooter />

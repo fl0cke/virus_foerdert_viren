@@ -23,7 +23,8 @@
           </g-link>
         </li>
       </ul>
-      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste Neustarten</Button>
+      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste Neustarten</Button> <br>
+      <Button class="bg-green-500 mt-8 print:hidden" @click="printScore">Ergebnis Drucken</Button>
       <div class="mt-4">
         <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
       </div>
@@ -84,6 +85,10 @@ export default {
     wasCompleted(measure) {
       return measure.id in this.$store.state.completedMeasures
     },
+    printScore: function() {
+      window.print(); 
+      console.log("Printing...");
+    }
   },
 }
 </script>

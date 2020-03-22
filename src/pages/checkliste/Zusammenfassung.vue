@@ -2,9 +2,8 @@
   <Layout class="text-center">
     <template v-if="$store.state.checklistStarted">
       <h1
-        class="leading-tight text-3xl font-semibold mb-4 mt-6 pb-2">
-        Ihr
-        Home-Office Score</h1>
+        class="leading-tight text-3xl md:text-4xl font-semibold mb-4 mt-6 pb-2">
+        Ihr Home-Office Score</h1>
       <div
         class="w-64 h-64 flex relative items-center justify-center mx-auto mt-12">
         <img src="../../assets/rings.svg" class="absolute" alt="">
@@ -13,9 +12,7 @@
                         :value="score"
                         easing="easeOutQuad" />
       </div>
-      <h2 class="leading-tight text-2xl md:text-3xl font-semibold mb-4 mt-12 pb-2">Übersicht
-        der Maßnahmen</h2>
-      <ul class="text-base text-lg md:text-xl">
+      <ul class="text-base text-lg md:text-xl mt-12">
         <li class="mt-2 font-medium" :class="measureClass(measure)"
             v-for="measure in allMeasures"
             :key="measure.id">
@@ -28,7 +25,7 @@
       </ul>
       <Button class="bg-blue-500 mt-8" to="/checkliste">Checkliste Neustarten</Button>
       <div class="mt-4">
-        <g-link to="/massnahmen" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
+        <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
       </div>
     </template>
     <template v-else>

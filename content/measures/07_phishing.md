@@ -19,7 +19,7 @@ Können Sie Phishing-E-Mails erkennen?
 
 
 
-<font-awesome :icon="['fab', 'github']"/>
+<font-awesome :icon="['fab', 'faCheck']"/>Können Sie Phishing-E-Mails erkennen?
 
 ### Können Sie Phishing-E-Mails erkennen?
 

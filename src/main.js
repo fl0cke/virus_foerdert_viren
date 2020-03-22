@@ -11,7 +11,7 @@ import { faCheck, faTimes } from '@fortawesome/free-solid-svg-icons'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 
 config.autoAddCss = false;
-library.add(faCheck, faTimes)
+library.add(faCheck, faTimes, faQuestion)
 
 export default function (Vue, { appOptions }) {
   // Set default layout as a global component

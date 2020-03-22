@@ -21,49 +21,54 @@
     <h3 class="font-semibold text-2xl mt-8">Weiterführende Hilfe</h3>
     <section class="mt-6">
       <ul class="mt-4 grid gap-2 grid-cols-2">
-        <li class="bg-gray-100 p-4 rounded-lg">
+        <li class="card">
           <h4 class="font-semibold">Verdächtige Mail erhalten?</h4>
           <p class="mt-3">Bitte folgen Sie den Hinweisen der
             Polizei-Beratungsstelle zum Thema <a
-              class="text-blue-500"
+              class="link"
               target="_blank"
               href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/phishing-schutz-vor-aktuellen-maschen/">Phishing.</a>
           </p>
         </li>
-        <li class="bg-gray-100 p-4 rounded-lg">
+        <li class="card">
           <h4 class="font-semibold">Verdächtige Person stand vor der Tür?</h4>
           <p class="mt-3">Bitte folgen Sie den Hinweisen der
             Polizei-Beratungsstelle zum Thema <a
-              class="text-blue-500"
+              class="link"
               target="_blank"
               href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/phishing-schutz-vor-aktuellen-maschen/">
               Haustürbetrug mit COVID-19.</a></p>
         </li>
-        <li class="bg-gray-100 p-4 rounded-lg">
+        <li class="card">
           <h4 class="font-semibold">Sie sind Opfer eines Cyberangriffs?</h4>
           <p class="mt-3">
-            Zur <a class="text-blue-500" target="_blank" href="https://www.allianz-fuer-cybersicherheit.de/ACS/DE/Angebote/IT-Notfallkarte/it-notfallkarte_einstieg_node.html">IT-Notfallkarte</a> der Allianz für Cybersicherheit.
+            Zur <a class="link" target="_blank"
+                   href="https://www.allianz-fuer-cybersicherheit.de/ACS/DE/Angebote/IT-Notfallkarte/it-notfallkarte_einstieg_node.html">IT-Notfallkarte</a>
+            der Allianz für Cybersicherheit.
           </p>
         </li>
-        <li class="bg-gray-100 p-4 rounded-lg">
+        <li class="card">
           <h4 class="font-semibold">Sie wollen Anzeige erstatten?</h4>
           <p class="mt-3">
-            Für Unternehmen: <a class="text-blue-500" target="_blank" href="https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac_node.html">polizei.de</a> <br>
-            Für Bürger:innen: <a class="text-blue-500" target="_blank" href="https://online-strafanzeige.de/">online-strafanzeige.de</a>
+            Für Unternehmen: <a class="link" target="_blank"
+                                href="https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac_node.html">polizei.de</a>
+            <br>
+            Für Bürger:innen: <a class="link" target="_blank"
+                                 href="https://online-strafanzeige.de/">online-strafanzeige.de</a>
           </p>
         </li>
-        <li class="bg-gray-100 p-4 rounded-lg col-span-2">
+        <li class="card col-span-2">
           <h4 class="font-semibold">Beratung durch das BSI für Bürger</h4>
           <p class="mt-2">
-            Telefon: <a class="text-blue-500" href="tel:0800 2741000">0800
+            Telefon: <a class="link" href="tel:0800 2741000">0800
             2741000</a>
             <br>
             Kostenlos aus dem deutschen Fest- und Mobilfunknetz <br>
             Erreichbarkeit: Montag bis Freitag von 8:00 bis 18:00 Uhr <br>
             Oder schicken Sie eine E-Mail an: <a
-            href="mailto:mail@bsi-fuer-buerger.de" class="text-blue-500">mail@bsi-fuer-buerger.de</a>
+            href="mailto:mail@bsi-fuer-buerger.de" class="link">mail@bsi-fuer-buerger.de</a>
             <br>
-            <a class="text-blue-500"
+            <a class="link"
                target="_blank"
                href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Wissenswertes_Hilfreiches/Kontakt/kontakt_node.html">Zur
               Homepage vom BSI</a>
@@ -95,18 +100,18 @@ export default {
 
 <static-query>
   query {
-  allMeasure(filter: { number: { eq: 1 }}) {
-  edges {
-  node {
-  path
-  }
-  }
-  }
+    allMeasure(filter: { number: { eq: 1 }}) {
+      edges {
+        node {
+          path
+        }
+      }
+    }
   }
 </static-query>
 
-<style>
-.home-links a {
-  margin-right: 1rem;
+<style scoped>
+.card {
+  @apply bg-gray-100 p-4 rounded-lg;
 }
 </style>

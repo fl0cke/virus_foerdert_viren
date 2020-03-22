@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-3 bg-gray-300 rounded-full overflow-hidden">
-    <div class="h-full bg-blue-500 transition-all duration-100" :style="style"></div>
+    <div class="h-full bg-indigo-500 transition-all duration-100" :style="style"></div>
   </div>
 </template>
 

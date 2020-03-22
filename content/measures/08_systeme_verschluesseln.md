@@ -16,5 +16,5 @@ Für USB Sticks beispielsweise bietet sich die Verwendung des Programms VeraCryp
 Oftmals bieten moderne Betriebssysteme bereits bei der Installation die Möglichkeit, die Festplatte zu verschlüsseln. Denken Sie auch hier daran, ein sicheres Passwort zu wählen! <br>
 Sie können dafür zum Beispiel
 [VeraCrypt](https://www.heise.de/download/product/veracrypt-95747) verwenden. <br> 
-Weitere Maßnahmen zur Verschlüsselung finden Sie [hier](https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Verschluesselung/Verschluesselung_node.html).
+Weitere Maßnahmen zur Verschlüsselung vom BSI finden Sie <a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Verschluesselung/Verschluesselung_node.html" target="_blank">hier</a>.
 

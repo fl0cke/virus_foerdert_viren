@@ -23,10 +23,10 @@
           </g-link>
         </li>
       </ul>
-      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste neu starten</Button> <br>
-      <Button class="bg-green-500 mt-8 print:hidden" @click.native="printScore">Ergebnis drucken</Button>
-      <div class="mt-4">
-        <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
+      <Button class="bg-blue-500 mt-8 print:hidden no-print" to="/checkliste">Checkliste neu starten</Button> <br>
+      <Button class="bg-green-500 mt-8 print:hidden no-print" @click.native="printScore">Ergebnis drucken</Button>
+      <div class="mt-4 print:hidden no-print">
+        <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600 ">Zurück zur Startseite</g-link>
       </div>
     </template>
     <template v-else>
@@ -88,6 +88,7 @@ export default {
     printScore() {
       window.print();
       console.log("Printing...");
+      return false;
     }
   },
 }
@@ -110,5 +111,10 @@ export default {
 </static-query>
 
 <style scoped>
-
+@media print {
+ .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
 </style>

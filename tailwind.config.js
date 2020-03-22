@@ -7,5 +7,10 @@ module.exports = {
       body: ['Open Sans', 'sans-serif'],
       mono: ['Consolas', 'Menlo', 'monospace']
     },
+    extend: {
+      screens: {
+        'print': {'raw': 'print'},
+      }
+    }
   }
 }

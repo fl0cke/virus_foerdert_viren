@@ -13,7 +13,7 @@
                         easing="easeOutQuad" />
       </div>
       <ul class="text-base text-lg md:text-xl mt-12">
-        <li class="mt-2 font-medium" :class="measureClass(measure)"
+        <li class="mt-2 print:mt-1 font-medium" :class="measureClass(measure)"
             v-for="measure in allMeasures"
             :key="measure.id">
           <font-awesome-icon
@@ -23,7 +23,7 @@
           </g-link>
         </li>
       </ul>
-      <Button class="bg-blue-500 mt-8" to="/checkliste">Checkliste Neustarten</Button>
+      <Button class="bg-blue-500 mt-8 print:hidden" to="/checkliste">Checkliste Neustarten</Button>
       <div class="mt-4">
         <g-link to="/" class="text-sm text-gray-500 hover:text-gray-600">Zurück zur Startseite</g-link>
       </div>
@@ -63,7 +63,6 @@ export default {
     },
   },
   methods: {
-
     measureClass(measure) {
       const completed = this.wasCompleted(measure)
       return {

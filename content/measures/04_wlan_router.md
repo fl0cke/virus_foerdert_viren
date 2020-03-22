@@ -24,4 +24,4 @@ Gelingt einem Angreifer der Zugriff auf den Router, kann er Ihnen auf verschiede
 
 * Stellen Sie sicher, dass Ihr Router sowie Ihr WLAN gegen unbefugten Zugriff geschützt ist. Das Bundesamt für Sicherheit in der Informationstechnik bietet entsprechende Anleitungen an:
   * <a target="_blank" href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/EinrichtungWLAN-LAN/WLAN/Sicherheitstipps/wlan_tipps.html">Sicherheitstipps zum privaten WLAN-Einsatz</a>
-* <a target="_blank" href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/EinrichtungWLAN-LAN/Sicherheitstipps/sicherheitstipps_node.html">Sicherheitstipps zum privaten LAN-Einsatz</a>
+  * <a target="_blank" href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/EinrichtungWLAN-LAN/Sicherheitstipps/sicherheitstipps_node.html">Sicherheitstipps zum privaten LAN-Einsatz</a>

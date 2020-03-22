@@ -12,9 +12,7 @@ Ist Ihr Virenscanner sowie eine Firewall aktiviert?
 
 Sind die für das Home-Of­fice eingesetzten IT-Systeme beispielsweise unsicher konfiguriert, können Sicherheitsprobleme entstehen, z. B. der Verlust der Vertraulichkeit durch unbefugten Zugriff.
 
-Virenscanner oder der Einsatz einer Firewall gehören zu den Standardmaßnahmen zum Schutz von IT-Systemen, die davor schützen können. 
-
-Es sollte deswegen beachtet werden, dass diese Maßnahmen auch im Home-Of­fice umgesetzt sind.
+Virenscanner oder der Einsatz einer Firewall gehören zu den Standardmaßnahmen zum Schutz von IT-Systemen, die davor schützen können. Es sollte deswegen beachtet werden, dass diese Maßnahmen auch im Home-Of­fice umgesetzt sind.
 
 ## Maßnahmen
 

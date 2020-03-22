@@ -10,7 +10,9 @@ Sperren Sie Ihren Bildschirm bevor Sie den Arbeitsplatz verlassen?
 
 ## Warum ist das wichtig?
 
-Der häusliche Arbeitsplatz ist oft auch für Familienangehörige zugänglich. Um zu verhindern, dass sensitive Informationen frei zugänglich sind, müssen Maßnahmen ergriffen werden, mit denen sich ein Sicherheitsniveau erreichen lässt, das mit einem Büroraum vergleichbar ist. Lassen Sie deswegen den Computer oder Laptop nicht unbeaufsichtigt, sperren Sie bei Abwesenheit den Bildschirm und nutzen Sie ggf. eine Bildschirmschutzfolie. 
+Der häusliche Arbeitsplatz ist oft auch für Familienangehörige zugänglich. Um zu verhindern, dass sensitive Informationen frei zugänglich sind, müssen Maßnahmen ergriffen werden, mit denen sich ein Sicherheitsniveau erreichen lässt, das mit einem Büroraum vergleichbar ist.
+
+Lassen Sie deswegen den Computer oder Laptop nicht unbeaufsichtigt, sperren Sie bei Abwesenheit den Bildschirm und nutzen Sie ggf. eine Bildschirmschutzfolie. 
 
 ## Maßnahmen
 
@@ -19,10 +21,10 @@ Es gibt verschiedenen Möglichkeiten. Wählen Sie Eine, mit der Sie am besten zu
 Beispiel:
 
 * Nutzen Sie jedes Mal bevor Sie den Arbeitsplatz verlassen Abkürzungen für die Tastatur
-  * Windows: Windows-Taste+L
-  * Linux: Strg + Alt + L
-  * Mac: CMD + Alt + Q) 
-* Klicken Sie jedes Mal bevor Sie den Arbeitsplatz verlassen auf “Energiesparen” 
+  * Windows: `Windows-Taste+L`
+  * Linux: `Strg + Alt + L`
+  * Mac: `CMD + Alt + Q`
+* Klicken Sie jedes Mal bevor Sie den Arbeitsplatz verlassen auf *Energiesparen*
 * Stellen Sie Ihren Bildschirmschoner so ein, dass der Bildschirm nach wenigen Minuten der Inaktivität automatisch gesperrt wird.
   * Windows: <a href="http://techmixx.de/windows-10-automatische-bildschirmsperre-aktivieren-oder-deaktivieren/" target="_blank">Anleitung</a>
   * macOS:  <a href="https://www.heise.de/tipps-tricks/Mac-Bildschirm-sperren-so-geht-s-3936758.html" target="_blank">Anleitung</a>

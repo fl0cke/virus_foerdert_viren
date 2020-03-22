@@ -22,4 +22,4 @@ Virenscanner oder der Einsatz einer Firewall gehören zu den Standardmaßnahmen 
   * <a target="_blank" href="https://www.computerwissen.de/windows/windows-probleme-loesen/artikel/pruefen-sie-ob-die-firewall-aktiv-ist.html">Prüfen Sie, ob die Firewall aktiv ist</a>
 * macOS (OSX): 
   * System Einstellungen -> Sicherheit & Privatsphäre -> Firewall
-  * <a target="_blank" href="https://support.apple.com/de-de/HT201642 https://support.google.com/android/answer/7680439?hl=de">OS X: Informationen zur Programm-Firewall</a>
+  * <a target="_blank" href="https://support.apple.com/de-de/HT201642">OS X: Informationen zur Programm-Firewall</a>

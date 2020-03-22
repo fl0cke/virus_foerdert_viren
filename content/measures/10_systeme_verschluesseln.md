@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## Tragbare IT-Systeme verschlüsseln
 
-Haben Sie tragbare IT-Systeme und Datenträgern verschlüsselt?
+> Haben Sie tragbare IT-Systeme und Datenträgern verschlüsselt?
 
 ## Warum ist das wichtig? 
 Falls Sie einmal ihren Laptop oder zum Beispiel USB-Sticks verlieren bzw. Falls diese gestohlen werden, müssen Sie sich keine Sorgen machen, dass die Daten in die falschen Hände geraten. Eine Verschlüsselung in Kombination mit einem starken Passwort schützt Ihre Daten selbst im Falle eines Verlusts!

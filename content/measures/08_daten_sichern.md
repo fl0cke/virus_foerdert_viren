@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## Daten sichern
 
-Sichern Sie regelmäßig lokal gespeicherte Daten oder speichern Sie Daten auf zentralen Systemen in Ihrer Institution?
+> Sichern Sie regelmäßig lokal gespeicherte Daten oder speichern Sie Daten auf zentralen Systemen in Ihrer Institution?
 
 ## Warum ist das wichtig? 
 Im Falle eines Systemversagens oder falls ihr Speichermedium kaputt ist, müssen Sie sich keine Sorgen machen, dass die Daten verloren gehen. Idealerweise werden wichtige Daten überhaupt nicht lokal gespeichert.

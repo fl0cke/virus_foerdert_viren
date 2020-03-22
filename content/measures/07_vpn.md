@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## Sichere VPN-Verbindung 
 
-Hat Ihnen Ihr Arbeitgeber eine VPN-Verbindung zur Verfügung gestellt?
+> Hat Ihnen Ihr Arbeitgeber eine VPN-Verbindung zur Verfügung gestellt?
 
 ## Warum ist das wichtig? 
 Um dienstliche Aufgaben erledigen zu können, müssen Sie ggf. auf interne Ressourcen der Institution zugreifen. Werden hierfür unsichere Protokolle verwendet, können Informationen

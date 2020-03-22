@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## Aktuelles Betriebssystem und Updates
 
-Nutzen Sie ein aktuelles Betriebssystem, das über die neuesten Updates verfügt?
+> Nutzen Sie ein aktuelles Betriebssystem, das über die neuesten Updates verfügt?
 
 ## Warum ist das wichtig?
 

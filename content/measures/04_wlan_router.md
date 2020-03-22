@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## WLAN und Router absichern
 
-Sind Ihr WLAN und Ihr Router gegen unbefugten Zugriff geschützt?
+> Sind Ihr WLAN und Ihr Router gegen unbefugten Zugriff geschützt?
 
 ## Warum ist das wichtig?
 

@@ -6,7 +6,7 @@ date: 2020-03-22
 
 ## Bildschirm sperren
 
-Sperren Sie Ihren Bildschirm bevor Sie den Arbeitsplatz verlassen?
+> Sperren Sie Ihren Bildschirm bevor Sie den Arbeitsplatz verlassen?
 
 ## Warum ist das wichtig?
 

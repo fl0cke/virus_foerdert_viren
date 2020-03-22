@@ -20,12 +20,12 @@ Es gibt verschiedenen Möglichkeiten. Wählen Sie Eine, mit der Sie am besten zu
 
 Beispiel:
 
-* Nutzen Sie jedes Mal bevor Sie den Arbeitsplatz verlassen Abkürzungen für die Tastatur
+* Immer wenn Sie den Arbeitsplatz verlassen, sperren sie Ihren Computer mit den folgenden Tastaturabkürzungen
   * Windows: `Windows-Taste + L`
   * Linux: `Strg + Alt + L`
   * Mac: `CMD + STRG + Q`
 * Klicken Sie jedes Mal bevor Sie den Arbeitsplatz verlassen auf *Energiesparen*
-* Stellen Sie Ihren Bildschirmschoner so ein, dass der Bildschirm nach wenigen Minuten der Inaktivität automatisch gesperrt wird.
+* Stellen Sie Ihren Bildschirmschoner so ein, dass der Bildschirm nach wenigen Minuten der Inaktivität automatisch gesperrt wird
   * Windows: <a href="http://techmixx.de/windows-10-automatische-bildschirmsperre-aktivieren-oder-deaktivieren/" target="_blank">Anleitung</a>
   * macOS:  <a href="https://www.heise.de/tipps-tricks/Mac-Bildschirm-sperren-so-geht-s-3936758.html" target="_blank">Anleitung</a>
   * iOS: : <a href="https://www.maclife.de/ratgeber/ios-10-sperrt-sich-iphone-automatisch-10083255.html" target="_blank">Anleitung</a>

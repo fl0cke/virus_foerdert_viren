@@ -2,13 +2,13 @@
   <Layout class="text-center">
     <h1 class="font-bold text-3xl md:text-5xl text-center mt-8 leading-snug">
       Virus fördert Viren</h1>
-    <h2 class="font-semibold text-xl md:text-2xl text-center">IT Sicherheit im
+    <h2 class="font-semibold text-xl md:text-2xl text-center">IT-Sicherheit im
       Home-Office</h2>
     <p class="mt-8 text-lg">
       Die IT-Sicherheit ist auch im Home-Office wichtig. In einem
-      abgesichertem
+      abgesicherten
       Büro gibt es viele Maßnahmen, um die Sicherheit der Angestellten und der
-      Unternehmens-IT zu gewährleisten. Im Home-Office sollte man versuchen
+      Unternehmens-IT zu gewährleisten. Im Home-Office sollte man versuchen,
       die gleichen Standards einzuhalten.
     </p>
     <p class="mt-6 text-lg">

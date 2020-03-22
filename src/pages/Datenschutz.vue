@@ -74,6 +74,7 @@ h2 {
 
 ul {
   list-style: disc;
+  padding: 0 0 0 2.5rem;
 }
 
 p {

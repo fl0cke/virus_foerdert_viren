@@ -5,7 +5,7 @@
       <p>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
       <p>Alexander Heinrich</p>
 
-      <h2 class="font-bold md:text-2xl leading-none">Ihre Betroffenenrechte</h2>
+      <h2>Ihre Betroffenenrechte</h2>
       <p>Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:</p>
       <ul>
         <li>Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),</li>
@@ -19,7 +19,7 @@
       <p>Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.</p>
       <p>Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank" rel="nofollow noopener">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a>.</p>
       
-      <h2 class="font-bold md:text-2xl leading-none">Erfassung allgemeiner Informationen beim Besuch unserer Website</h2>
+      <h2>Erfassung allgemeiner Informationen beim Besuch unserer Website</h2>
       <h3 class="font-semibold mt-1">Art und Zweck der Verarbeitung:</h3>
       <p>Wenn Sie auf unsere Website zugreifen, d.h., wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und ähnliches. </p>
       <p>Sie werden insbesondere zu folgenden Zwecken verarbeitet:</p>
@@ -39,16 +39,16 @@
       <h3 class="font-semibold mt-1">Bereitstellung vorgeschrieben oder erforderlich:</h3>
       <p>Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit unserer Website nicht gewährleistet. Zudem können einzelne Dienste und Services nicht verfügbar oder eingeschränkt sein. Aus diesem Grund ist ein Widerspruch ausgeschlossen. </p>
       
-      <h2 class="font-bold md:text-2xl leading-none">SSL-Verschlüsselung</h2>
+      <h2>SSL-Verschlüsselung</h2>
       <p>Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z. B. SSL) über HTTPS.</p>
       
-      <h2 class="font-bold md:text-2xl leading-none">Eingesetzte Auftragsverarbeiter</h2>
+      <h2>Eingesetzte Auftragsverarbeiter</h2>
       <p>Folgende Organisationen, Unternehmen bzw. Personen wurden vom Betreiber dieser Website mit der Verarbeitung von Daten beauftragt:</p>
       <p>Netlify (https://www.netlify.com)</p>
       
-      <h2 class="font-bold md:text-2xl leading-none">Änderung unserer Datenschutzbestimmungen</h2>
+      <h2>Änderung unserer Datenschutzbestimmungen</h2>
       <p>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.</p>
-      <h2 class="font-bold md:text-2xl leading-none">Fragen an den Datenschutzbeauftragten</h2>
+      <h2>Fragen an den Datenschutzbeauftragten</h2>
       <p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</p>
       <p>TODO</p>
       
@@ -63,3 +63,21 @@ export default {
   }
 }
 </script>
+
+
+<style scoped>
+h2 {
+  margin-top: 2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style: disc;
+}
+
+p {
+  margin: 1rem 0;
+}
+</style>
+

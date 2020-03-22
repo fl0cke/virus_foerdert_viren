@@ -1,5 +1,5 @@
 ---
-title: Sicherer Remote-Zugriff auf das Netz der Institution - VPN-Verbindungen 
+title: VPN-Verbindungen
 number: 6
 date: 2020-03-22
 ---

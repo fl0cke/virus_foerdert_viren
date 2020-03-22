@@ -6,18 +6,17 @@
       <h2>Angaben gemäß § 5 TMG</h2>
 
       <p> Virus fördert Viren - IT-Sicherheit im Home-Office <br>
-      Max Mustermann<br>
-      Musterstadt</p>
+      Alexander Heinrich<br>
+      TODO Adresse</p>
 
 
       <h2>Kontakt</h2>
 
-      <p>Telefon: <a class="link" href="tel:+"></a><br>
-      E-Mail: <a class="link" href="mailto:">a@test.de</a></p>
+      <p>E-Mail: <a class="link" href="mailto:">TODO</a></p>
 
       <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 
-      <p>Max Mustermann<br>Musterstadt</p>
+      <p>Alexander Heinrich<br>TODO</p>
 
 
       <h2>Verbraucher­streit­beilegung/Universal­schlichtungs­stelle</h2>

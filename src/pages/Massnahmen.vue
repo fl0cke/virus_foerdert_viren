@@ -9,7 +9,7 @@
       </li>
     </ol>
     <p class="mt-4 ">
-      Weitere Informationen und Maßnahmen zum Thema IT Sicherheit im Home Office finden Sie unter <a class="link">HIER LINK EINFÜGEN</a>
+      Weitere Informationen und Schutzmaßnahmen zum Thema IT-Sicherheit im Home-Office finden Sie auf der Seite <a class="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/empfehlungen_node.html">BSI für Bürger</a>.
     </p>
     <p class="mt-4 text-gray-500">
       Sie vermissen eine bestimmte Maßnahme? Dann schreiben Sie uns doch und wir nehmen diese gerne in die Liste mit auf!

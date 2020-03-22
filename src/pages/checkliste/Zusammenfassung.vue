@@ -3,7 +3,7 @@
     <template v-if="$store.state.checklistStarted">
       <h1
         class="leading-tight text-3xl md:text-4xl font-semibold mb-4 mt-6 pb-2">
-        Ihr Home-Office Score</h1>
+        Ihr Home-Office-Score</h1>
       <div
         class="w-64 h-64 flex relative items-center justify-center mx-auto mt-12">
         <img src="../../assets/rings.svg" class="absolute" alt="">

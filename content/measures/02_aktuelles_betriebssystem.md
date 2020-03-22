@@ -16,16 +16,12 @@ Das Bundesamt für Sicherheit in der Informationstechnik (BSI) rät Anwendern vo
 
 ## Maßnahmen
 
-Überprüfen Sie, ob Ihr Betriebssystem auf dem aktuellsten Stand ist und aktualisieren Sie dieses gegebenenfalls. 
-
-<a href="https://www.teltarif.de/tag/betriebssystem/" target="_blank">Hier</a> finden Sie eine Liste an gängigen Betriebssystemen:.
+Überprüfen Sie, ob Ihr Betriebssystem auf dem aktuellsten Stand ist und aktualisieren Sie dieses gegebenenfalls. <a href="https://www.teltarif.de/tag/betriebssystem/" target="_blank">Hier</a> finden Sie eine Liste an gängigen Betriebssystemen:.
 
 * Windows
   * Support Artikel mit Laufzeiten für Betriebssysteme <a href="https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet" target="_blank">Windows Support</a>
   * <a href="https://docs.microsoft.com/de-de/windows/deployment/deploy-windows-mdt/refresh-a-windows-7-computer-with-windows-10" target="_blank">Hier</a> wird erklärt, wie Sie von Windows 7 zu Windows 10 wechseln können: 
-* iOS
-  *  <a href="https://support.apple.com/de-de/HT201222" target="_blank">Überblick über aktuelle Sicherheitsupdates</a>
-  *  
+* iOS: <a href="https://support.apple.com/de-de/HT201222" target="_blank">Überblick über aktuelle Sicherheitsupdates</a>
 * Android: <a href="https://www.netzwelt.de/news/176833-android-update-grosse-android-update-fahrplan.html" target="_blank">Infos zu verfügbaren Updates von Android Smartphones</a>
 
 Durch Updates werden nicht nur neue Funktionen installiert, sondern auch Sicherheitslücken behoben. 

@@ -62,6 +62,7 @@ export default {
   methods: {
     next() {
       const nextNumber = this.currentMeasure.number + 1
+      window.scrollTo(0,0)
       if (nextNumber <= this.allMeasures.length) {
         this.currentNumber = nextNumber
       } else {

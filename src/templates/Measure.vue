@@ -25,3 +25,15 @@ export default {
     }
   }
 </page-query>
+
+<style scoped>
+blockquote {
+ font-size: 1.2rem;
+ font-style: italic;
+ color: #6875f5;
+ border-left: 2px solid #009;
+ padding: 1.5rem 2rem;
+ margin: 2rem 0;
+ background: #d2d6dc;
+}
+</style>

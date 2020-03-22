@@ -1,24 +1,24 @@
 <template>
-  <Layout :measure="$page.measure">
-    <div class="markdown" v-html="$page.measure.content" />
+  <Layout>
+    <div class="mt-2 flex justify-between items-end content-end">
+      <h5 class="font-semibold">Maßnahme Nr. {{$page.measure.number}}</h5>
+      <g-link to="/massnahmen" class="link">Zur übersicht</g-link>
+    </div>
+    <div class="markdown mt-4" v-html="$page.measure.content" />
   </Layout>
 </template>
 
 <script>
 
-import Stepper from '../layouts/Stepper'
 
 export default {
   name: 'Measure',
-  components: {
-    Layout: Stepper
-  }
 }
 </script>
 
 <page-query>
   query Measure ($id: ID!) {
-    measure: measure (id: $id) {
+    measure (id: $id) {
       id
       number
       content

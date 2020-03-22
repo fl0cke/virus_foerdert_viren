@@ -17,7 +17,10 @@
       umgesetzt haben und was sie tun können, um die IT-Sicherheit im Home
       Office zu verbessern.
     </p>
-    <Button class="mt-8 bg-green-500" :to="firstMeasure.path">Starten</Button>
+    <Button class="mt-8 bg-green-500" to="/checkliste">Starten</Button>
+    <div class="mt-4">
+      <g-link to="/massnahmen" class=" text-sm text-gray-500 hover:text-gray-600">Direkt zu den Maßnahmen</g-link>
+    </div>
     <h3 class="font-semibold text-2xl mt-8">Weiterführende Hilfe</h3>
     <section class="mt-6">
       <ul class="mt-4 grid gap-2 grid-cols-2">
@@ -82,33 +85,18 @@
 
 <script>
 import Button from '../components/Button'
+import Index from '../layouts/Index'
 
 export default {
   metaInfo: {
     title: 'Hello, world!',
   },
   components: {
+    Layout: Index,
     Button,
-  },
-  computed: {
-    firstMeasure() {
-      return this.$static.allMeasure.edges[0].node
-    },
   },
 }
 </script>
-
-<static-query>
-  query {
-    allMeasure(filter: { number: { eq: 1 }}) {
-      edges {
-        node {
-          path
-        }
-      }
-    }
-  }
-</static-query>
 
 <style scoped>
 .card {

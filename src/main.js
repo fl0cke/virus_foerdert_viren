@@ -24,6 +24,7 @@ export default function (Vue, { appOptions }) {
   appOptions.store = new Vuex.Store({
     state: {
       completedMeasures: {},
+      checklistStarted: false
     },
     getters: {
       completedMeasuresCount: state => Object.keys(state.completedMeasures).length
@@ -35,8 +36,9 @@ export default function (Vue, { appOptions }) {
       rejectMeasure (state, measure) {
         Vue.delete(state.completedMeasures, measure.id)
       },
-      reset(state) {
+      startChecklist(state) {
         state.completedMeasures = {}
+        state.checklistStarted = true
       }
     }
   })

@@ -71,6 +71,10 @@
     @apply leading-tight text-sm font-semibold text-gray-600 mb-4 mt-6;
 }
 
+.markdown h1:first-child, .markdown h2:first-child {
+    @apply mt-0;
+}
+
 .markdown blockquote {
     @apply text-base border-l-4 border-gray-300 pl-4 pr-4 text-gray-600;
 }

@@ -3,12 +3,12 @@
     <h1 class="font-bold text-3xl md:text-5xl text-center mt-8 leading-snug">
       Impressum</h1>
 
-      <p> Diese Webseite wurde im Rahmen des Wir vs Virus Hackathon der deutschen Bundesregierung vom 20.-22.03.2020 erstellt. <br> 
+      <p>Diese Webseite wurde im Rahmen des <a class="link" target="_blank" href="https://wirvsvirushackathon.org/">#WirVsVirus-Hackathons</a> der deutschen Bundesregierung vom 20.-22.03.2020 erstellt. 
       Die Inhalte wurden gemeinsam mit dem Team erstellt und eingepflegt. </p>
 
       <h2>Angaben gemäß § 5 TMG</h2>
 
-      <p> Virus fördert Viren - IT-Sicherheit im Home-Office <br>
+      <p> Virus fördert Viren &ndash; IT-Sicherheit im Home-Office <br>
       Alexander Heinrich<br>
       Elsterweg 15 <br>
       64291 Darmstadt  

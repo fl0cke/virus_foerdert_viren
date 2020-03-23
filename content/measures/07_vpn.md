@@ -15,4 +15,4 @@ abgehört oder manipuliert werden. Um einen sicheren Fernzugriff auf das Netz de
 Über öffentlich zugängliche Netze dürfen die Mitarbeiter:innen nur über einen sicheren Kommunikationskanal auf interne Ressourcen der Institution zugreifen. Dieser Zugriff muss auf vertrauenswürdige IT-Systeme und Benutzer sowie auf die benötigten Benutzungszeiten beschränkt werden.
 
 ## Maßnahmen 
-Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat hier eine <a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/VPN/VPN_Virtual_Private_Network_node.html" target="_blank">Anleitung</a> veröffentlicht, wie sie einen VPN Zugang einrichten können. 
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine <a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/VPN/VPN_Virtual_Private_Network_node.html" target="_blank">Anleitung</a> veröffentlicht, wie sie einen VPN Zugang einrichten können. 

@@ -38,7 +38,7 @@
             Polizei-Beratungsstelle zum Thema <a
               class="link"
               target="_blank"
-              href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/phishing-schutz-vor-aktuellen-maschen/">
+              href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/haustuerbetrug-mit-covid-19-tests/">
               Haustürbetrug mit COVID-19.</a></p>
         </li>
         <li class="card col-span-2 sm:col-auto">

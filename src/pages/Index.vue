@@ -23,7 +23,7 @@
     <h3 class="font-semibold text-2xl mt-8">Weiterführende Hilfe</h3>
     <section class="mt-6">
       <ul class="mt-4 grid gap-2 grid-cols-2">
-        <li class="card">
+        <li class="card col-span-2 sm:col-auto">
           <h4 class="font-semibold">Verdächtige Mail erhalten?</h4>
           <p class="mt-3">Bitte folgen Sie den Hinweisen der
             Polizei-Beratungsstelle zum Thema <a
@@ -32,7 +32,7 @@
               href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/phishing-schutz-vor-aktuellen-maschen/">Phishing.</a>
           </p>
         </li>
-        <li class="card">
+        <li class="card col-span-2 sm:col-auto">
           <h4 class="font-semibold">Verdächtige Person stand vor der Tür?</h4>
           <p class="mt-3">Bitte folgen Sie den Hinweisen der
             Polizei-Beratungsstelle zum Thema <a
@@ -41,7 +41,7 @@
               href="https://www.polizei-beratung.de/startseite-und-aktionen/aktuelles/detailansicht/phishing-schutz-vor-aktuellen-maschen/">
               Haustürbetrug mit COVID-19.</a></p>
         </li>
-        <li class="card">
+        <li class="card col-span-2 sm:col-auto">
           <h4 class="font-semibold">Sie sind Opfer eines Cyberangriffs?</h4>
           <p class="mt-3">
             Zur <a class="link" target="_blank"
@@ -49,7 +49,7 @@
             der Allianz für Cybersicherheit.
           </p>
         </li>
-        <li class="card">
+        <li class="card col-span-2 sm:col-auto">
           <h4 class="font-semibold">Sie wollen Anzeige erstatten?</h4>
           <p class="mt-3">
             Für Unternehmen: <a class="link" target="_blank"

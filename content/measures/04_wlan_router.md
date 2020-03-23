@@ -4,7 +4,7 @@ number: 4
 date: 2020-03-22
 ---
 
-## WLAN und Router absichern
+# WLAN und Router absichern
 
 > Sind Ihr WLAN und Ihr Router gegen unbefugten Zugriff geschützt?
 

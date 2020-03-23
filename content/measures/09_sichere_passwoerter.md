@@ -3,7 +3,7 @@ title: Sichere Passwörter und PINs verwenden
 number: 9
 date: 2020-03-22
 ---
-## Sichere Passwörter und PINs verwenden
+# Sichere Passwörter und PINs verwenden
 
 > Benutzen Sie Passwörter die den beschriebenen Sicherheitskriterien entsprechen?
 

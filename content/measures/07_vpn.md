@@ -4,7 +4,7 @@ number: 7
 date: 2020-03-22
 ---
 
-## Sichere VPN-Verbindung 
+# Sichere VPN-Verbindung 
 
 > Hat Ihnen Ihr Arbeitgeber eine VPN-Verbindung zur Verfügung gestellt?
 

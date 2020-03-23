@@ -4,7 +4,7 @@ number: 3
 date: 2020-03-22
 ---
 
-## Virenscanner und Firewall
+# Virenscanner und Firewall
 
 > Ist Ihr Virenscanner sowie eine Firewall aktiviert?
 

@@ -16,15 +16,24 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 main .markdown blockquote {
     font-size: 1.2rem;
-    font-style: italic;
+    font-weight: bold;
     color: #525dcf;
-    border-left: 2px solid #525dcf;
+    border-left: 0px solid #525dcf;
     padding: 1.5rem 2rem;
     margin: 2rem 0;
-    background: #d2d6dc;
+    background: #f8f8f8;
+}
+
+main .markdown h1 {
+	font-size: 1.5rem;
+}
+
+main .markdown h2 {
+	font-size: 1.125rem;
+	line-height: 1.375;
 }
 
 </style>

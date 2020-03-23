@@ -4,7 +4,7 @@ number: 2
 date: 2020-03-22
 ---
 
-## Aktuelles Betriebssystem und Updates
+# Aktuelles Betriebssystem und Updates
 
 > Nutzen Sie ein aktuelles Betriebssystem, das über die neuesten Updates verfügt?
 

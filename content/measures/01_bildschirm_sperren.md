@@ -4,7 +4,7 @@ number: 1
 date: 2020-03-22
 ---
 
-## Bildschirm sperren
+# Bildschirm sperren
 
 > Sperren Sie Ihren Bildschirm bevor Sie den Arbeitsplatz verlassen?
 

@@ -4,7 +4,7 @@ number: 8
 date: 2020-03-22
 ---
 
-## Datensicherung
+# Datensicherung
 
 > Sichern Sie regelmäßig lokal gespeicherte Daten oder speichern Sie Daten auf zentralen Systemen in Ihrer Institution?
 

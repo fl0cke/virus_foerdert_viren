@@ -5,7 +5,7 @@ date: 2020-03-22
 ---
 ## Sichere Passwörter und PINs verwenden
 
-Benutzen Sie Passwörter die den beschriebenen Sicherheitskriterien entsprechen?
+> Benutzen Sie Passwörter die den beschriebenen Sicherheitskriterien entsprechen?
 
 * Passwörter sollten nicht in Listen von häufigen Passwörtern enthalten sein (Prüfung mit <a href="https://haveibeenpwned.com" target="_blank"> have i been pwned</a>)
 * Jedes Passwort darf nur einmal verwendet werden

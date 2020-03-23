@@ -3,20 +3,34 @@
     <h1 class="font-bold text-3xl md:text-5xl text-center mt-8 leading-snug">
       Impressum</h1>
 
+      <p> Diese Webseite wurde im Rahmen des Wir vs Virus Hackathon der deutschen Bundesregierung vom 20.-22.03.2020 erstellt. <br> 
+      Die Inhalte wurden gemeinsam mit dem Team erstellt und eingepflegt. </p>
+
       <h2>Angaben gemäß § 5 TMG</h2>
 
       <p> Virus fördert Viren - IT-Sicherheit im Home-Office <br>
       Alexander Heinrich<br>
-      TODO Adresse</p>
+      Elsterweg 15 <br>
+      64291 Darmstadt  
+    </p>
 
 
       <h2>Kontakt</h2>
 
-      <p>E-Mail: <a class="link" href="mailto:">TODO</a></p>
+      <p>E-Mail: <a class="link" href="mailto:">virus-hackathon@mr-alex.dev</a></p>
 
       <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 
-      <p>Alexander Heinrich<br>TODO</p>
+      <p>
+        Adrian Bönde <br>
+        Alexander Heinrich <br>
+        Christian Rellmann <br>
+        Felix Kosterhohn <br>
+        Felix Heidecke <br>
+        Jan Becker <br>
+        Julia Schütze <br>
+        Natalie Kohler <br>
+      </p>
 
 
       <h2>Verbraucher­streit­beilegung/Universal­schlichtungs­stelle</h2>

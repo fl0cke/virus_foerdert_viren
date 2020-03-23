@@ -17,7 +17,7 @@
 
       <h2>Kontakt</h2>
 
-      <p>E-Mail: <a class="link" href="mailto:">virus-hackathon@mr-alex.dev</a></p>
+      <p>E-Mail: <a class="link" href="mailto:virus-hackathon@mr-alex.dev">virus-hackathon[at]mr-alex.dev</a></p>
 
       <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 

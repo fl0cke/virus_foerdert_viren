@@ -50,7 +50,7 @@
       <p>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.</p>
       <h2>Fragen an den Datenschutzbeauftragten</h2>
       <p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</p>
-      <p>TODO</p>
+      <p><a class="link" href="mailto:virus-hackathon@mr-alex.dev">virus-hackathon[at]mr-alex.dev</a></p>
       
       <p><em>Die Datenschutzerklärung wurde mithilfe der activeMind AG erstellt, den Experten für <a class="link" href="https://www.activemind.de/datenschutz/datenschutzbeauftragter/" target="_blank" rel="noopener">externe Datenschutzbeauftragte</a> (Version #2019-04-10).</em></p>  
   </Layout>

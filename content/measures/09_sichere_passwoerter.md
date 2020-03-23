@@ -1,6 +1,6 @@
 ---
 title: Sichere Passwörter und PINs verwenden
-number: 10
+number: 9
 date: 2020-03-22
 ---
 ## Sichere Passwörter und PINs verwenden

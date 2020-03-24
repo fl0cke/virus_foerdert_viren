@@ -22,14 +22,14 @@
       <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 
       <p>
-        Adrian Bönde <br>
-        Alexander Heinrich <br>
-        Christian Rellmann <br>
-        Felix Kosterhohn <br>
-        Felix Heidecke <br>
-        Jan Becker <br>
-        Julia Schütze <br>
-        Natalie Kohler <br>
+        Adrian Bönde<br>
+        Alexander Heinrich<br>
+        Christian Rellmann<br>
+        Felix Kosterhon<br>
+        Felix Heidecke<br>
+        Jan Becker<br>
+        Julia Schütze<br>
+        Natalie Kohler<br>
       </p>
 
 

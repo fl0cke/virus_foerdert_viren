@@ -23,3 +23,5 @@ Um Passwörter ordentlich zu organisieren ist ein Passwort-Manager essentiell. D
 * KeePass ist eine kostenlose OpenSource Lösung, die die Passwörter lokal speichert <a href="https://keepass.info" target="_blank">https://keepass.info</a>
 * Bei macOS gibt es mit dem Schlüsselbund einen im System eingebauten Passwort-Manager
 * Bitwarden ist eine kostengünstige Open-Source-Lösung, die die Daten in ihrer Cloud speichert <a href="https://bitwarden.com" target="_blank">https://bitwarden.com</a>
+  
+*Quellen: <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/empfehlung_home_office.html" target="_blank">BSI</a>, <a href="https://cyber-security-cluster.eu/de/aktuelles/sicher-home-office.html" target="_blank">Cyber Security Cluster Bonn</a>*

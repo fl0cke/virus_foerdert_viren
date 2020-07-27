@@ -23,3 +23,5 @@ Virenscanner oder der Einsatz einer Firewall gehören zu den Standardmaßnahmen 
 * macOS (OS X): 
   * System Einstellungen -> Sicherheit & Privatsphäre -> Firewall
   * <a target="_blank" href="https://support.apple.com/de-de/HT201642">OS X: Informationen zur Programm-Firewall</a>
+  
+*Quellen: <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/empfehlung_home_office.html" target="_blank">BSI</a>, <a href="https://cyber-security-cluster.eu/de/aktuelles/sicher-home-office.html" target="_blank">Cyber Security Cluster Bonn</a>*

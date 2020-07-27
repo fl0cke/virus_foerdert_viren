@@ -18,3 +18,4 @@ Falls Sie einmal ihren Laptop oder zum Beispiel USB-Sticks verlieren bzw. falls 
 [VeraCrypt](https://www.heise.de/download/product/veracrypt-95747) verwenden.
 * Weitere Maßnahmen zur Verschlüsselung vom BSI finden Sie <a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Verschluesselung/Verschluesselung_node.html" target="_blank">hier</a>.
 
+*Quellen: <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/empfehlung_home_office.html" target="_blank">BSI</a>, <a href="https://cyber-security-cluster.eu/de/aktuelles/sicher-home-office.html" target="_blank">Cyber Security Cluster Bonn</a>*

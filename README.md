@@ -8,7 +8,7 @@ Damit es für die Arbeitnehmer:innen und Arbeitgeber:innen einfacher ist, die gr
 
 Dieses Projekt ist unser Beitrag zum [#WirVsVirusHack](https://wirvsvirushackathon.org/) 2020.
 
-* Direkt zur Checkliste: [https://virus-foerdert-viren.netlify.com](https://virus-foerdert-viren.netlify.com)
+* Direkt zur Checkliste: [https://virus-foerdert-viren.de](https://virus-foerdert-viren.de)
 * Unser Pitch-Video auf [YouTube](https://www.youtube.com/watch?v=BfgqEM5kQ-Y).
 * [Devpost-Projekt](https://devpost.com/software/0026_home_office_virus_fordert_viren)
 

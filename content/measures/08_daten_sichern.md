@@ -13,3 +13,5 @@ Im Falle eines Systemversagens oder falls ihr Speichermedium kaputt ist, müssen
 
 ## Maßnahmen 
 Wie Sie Ihre Daten sichern können, hat das BSI <a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Datensicherung/datensicherung_node.html" target="_blank"> hier aufgeschrieben </a>
+
+*Quellen: <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/empfehlung_home_office.html" target="_blank">BSI</a>, <a href="https://cyber-security-cluster.eu/de/aktuelles/sicher-home-office.html" target="_blank">Cyber Security Cluster Bonn</a>*
